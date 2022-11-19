@@ -1,0 +1,7 @@
+Zadanie1: 
+
+	Wyszukaj i naucz się podstawę GIT (vcs)
+	Napisz krótki artykuł jak i dlaczego używać GIT. Umieść to w osobnym repozytorium.
+	Załóż konto na GitHub i umieść tam repozytorium. 
+	Bonus: Użyj AsciiDoc do napisania artykułu.
+	
